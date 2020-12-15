@@ -1,5 +1,5 @@
 # flappyBird-phidget
-This is a simple Flappy Bird remake coded in processing which also adds the option to play with a controller made by a local company Phidgets Inc.
+This is a simple Flappy Bird remake I coded back in High School in Processing which also adds the option to play with a controller made by a local company Phidgets Inc.
 
 
 # How to play
